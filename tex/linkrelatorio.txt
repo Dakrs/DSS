@@ -1,3 +1,0 @@
-https://www.overleaf.com/1319869357nwbpbgwzcpdf
-
-vejam como é que dão import ao módulos. O main é sempre o que é compilado.
